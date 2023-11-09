@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duddu-Hriday
 - 👀 I’m interested in Programming and Web Development
 - 🌱 I’m currently learning Web Development related stuff and more languages
-- 💞️ I know to code in C,C++,Python,Java,C#, and many more
+- 💞️ I know to code in C,C++,Python,Java,and many more
 - 📫 How to reach me : Mail me @ hriday2702@gmail.com
 
 <!---

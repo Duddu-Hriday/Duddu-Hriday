@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
-- 📫 How to reach me **student.dudduhriday@gmail.com**
+- 📫 How to reach me **student.hridayduddu@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Duddu-Hriday/Resume/blob/main/duddu_hriday_resume.pdf](https://github.com/Duddu-Hriday/Resume/blob/main/duddu_hriday_resume.pdf)
 

@@ -27,7 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duddu-hriday&show_icons=true&locale=en" alt="duddu-hriday" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duddu-hriday&" alt="duddu-hriday" /></p>
-
- <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=duddu-hriday&label=Profile%20views&color=0e75b6&style=flat" alt="duddu-hriday" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duddu-hriday" alt="duddu-hriday" /></a> </p> 
